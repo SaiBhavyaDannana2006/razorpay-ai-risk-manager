@@ -13,8 +13,6 @@ The system answers a more actionable question than "Is this transaction fraud?":
 - What is the minimum containment set that reduces transmission below a self-limiting threshold?
 - What is the net benefit of intervention when compared against fraud loss and customer friction?
 
-## Why this matters for Razorpay
-
 Modern fraud rings are adversarial and distributed. A single merchant rarely sees enough bad activity to identify a networked syndicate, but the combined signal across merchants reveals the outbreak. Outbreak Control Room treats fraud rings as an epidemic on a graph, enabling risk operators to detect hidden propagation patterns before losses become systemic.
 
 ## Key features
