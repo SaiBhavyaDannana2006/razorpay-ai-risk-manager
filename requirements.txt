@@ -1,0 +1,9 @@
+streamlit>=1.36
+pandas>=2.0
+networkx>=3.0
+plotly>=5.18
+pyvis>=0.3.2
+matplotlib>=3.7
+fastapi>=0.110
+uvicorn>=0.29
+numpy>=1.26.0
